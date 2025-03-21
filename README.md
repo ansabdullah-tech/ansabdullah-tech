@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ansabdullah-tech
 - 👀 I’m interested in giving solution to real world problems,coding in C/C++,Python
-- 🌱 I’m currently learning Python and Java-script
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on any kind of project in C/C++,Python
-- 📫 You can contact me on:ansmalik742@gmail.com
+- 📫 You can contact me on:
+- ansmalik742@gmail.com
+- www.linkedin.com/in/ans-abdullah-malik-268413292
 
 
 <!---
